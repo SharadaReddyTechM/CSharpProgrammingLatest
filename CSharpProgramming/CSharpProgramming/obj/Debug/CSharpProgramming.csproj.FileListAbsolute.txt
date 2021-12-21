@@ -1,0 +1,7 @@
+D:\CS Demos\VizagSessions\CSharpDemos\CSharpProgramming\CSharpProgramming\bin\Debug\CSharpProgramming.exe.config
+D:\CS Demos\VizagSessions\CSharpDemos\CSharpProgramming\CSharpProgramming\bin\Debug\CSharpProgramming.exe
+D:\CS Demos\VizagSessions\CSharpDemos\CSharpProgramming\CSharpProgramming\bin\Debug\CSharpProgramming.pdb
+D:\CS Demos\VizagSessions\CSharpDemos\CSharpProgramming\CSharpProgramming\obj\Debug\CSharpProgramming.csproj.CoreCompileInputs.cache
+D:\CS Demos\VizagSessions\CSharpDemos\CSharpProgramming\CSharpProgramming\obj\Debug\CSharpProgramming.exe
+D:\CS Demos\VizagSessions\CSharpDemos\CSharpProgramming\CSharpProgramming\obj\Debug\CSharpProgramming.pdb
+D:\CS Demos\VizagSessions\CSharpDemos\CSharpProgramming\CSharpProgramming\obj\Debug\CSharpProgramming.csproj.AssemblyReference.cache
