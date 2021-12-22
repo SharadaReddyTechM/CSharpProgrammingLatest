@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharpProgramming.AdvanceCSFeatures</StartupObject>
+    <StartupObject>CSharpProgramming.DemoExtensionMethods</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -52,6 +52,7 @@
     <Compile Include="CodeByDev1.cs" />
     <Compile Include="DemoAbstractClassMethods.cs" />
     <Compile Include="DemoAccessSpecifiers.cs" />
+    <Compile Include="DemoExtensionMethods.cs" />
     <Compile Include="DemoFunctionOverloading.cs" />
     <Compile Include="DemoInheritence-Adv.cs" />
     <Compile Include="DemoInheritence.cs" />

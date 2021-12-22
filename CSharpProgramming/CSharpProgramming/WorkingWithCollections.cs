@@ -70,8 +70,5 @@ namespace CSharpProgramming
         }
     }
 
-    class Book
-    {
 
-    }
 }
